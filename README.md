@@ -16,3 +16,10 @@ git clone git@github.com:redlightASl/Lib-ADP.git
 git submodule add git@github.com:redlightASl/Lib-ADP.git <子模块目录>
 ```
 
+使用
+
+```shell
+git submodule update --remote --force
+```
+
+强制更新本地ADP到最新版本
