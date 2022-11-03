@@ -1,0 +1,8 @@
+# version logs
+### beta0.1
+add frenquently used components
+fix bugs
+
+### beta0.2
+add some high-power components
+fix bugs

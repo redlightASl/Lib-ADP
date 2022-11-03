@@ -2,7 +2,7 @@
 
 不定期更新
 
-使用方式
+### 使用方式
 
 ```shell
 git clone git@github.com:redlightASl/Lib-ADP.git
@@ -23,3 +23,10 @@ git submodule update --remote --force
 ```
 
 强制更新本地ADP到最新版本
+
+### 版本更新记录
+
+当前版本：beta0.2
+
+* 2022.11.3前-beta0.1
+* 2022.11.3-beta0.2
