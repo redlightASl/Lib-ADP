@@ -10,3 +10,13 @@ fix bugs
 ### beta0.3
 add some new components
 fix bugs
+
+### beta0.4
+add some new components
+fix bugs
+
+### beta0.5
+use LibPkg for checking components and management
+add some new components
+fix bugs
+release Lib-ADPv1.0 for test, enjoy it =)
