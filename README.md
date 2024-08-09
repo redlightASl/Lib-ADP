@@ -63,12 +63,19 @@ git submodule update --remote --force
 
 强制更新本地ADP到最新版本
 
+### 贡献
+
+如果您希望对该仓库进行贡献，请联系仓库管理员，本项目仅供实验室内部学习交流使用，不对外开放贡献。
+
+您可以使用[altium-lib-diff](https://github.com/goshdarnharris/altium-lib-diff)来进行跨版本比较以查看本仓库加入了哪些新东西或对旧东西进行了哪些修改。
+
 ### 版本更新记录
 
-当前版本：`beta0.5`
+当前版本：`beta0.6`
 
 * 2022.11.3前-beta0.1
 * 2022.11.3-beta0.2
 * 2023.7.13-beta0.3
 * 2023.8.31-beta0.4
 * 2024.3.14-beta0.5-ReleaseV1.0
+* 2024.8.9-beta0.6
