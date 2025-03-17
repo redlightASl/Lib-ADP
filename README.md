@@ -71,7 +71,7 @@ git submodule update --remote --force
 
 ### 版本更新记录
 
-当前版本：`beta0.6`
+当前版本：`beta0.7`
 
 * 2022.11.3前-beta0.1
 * 2022.11.3-beta0.2
@@ -79,3 +79,4 @@ git submodule update --remote --force
 * 2023.8.31-beta0.4
 * 2024.3.14-beta0.5-ReleaseV1.0
 * 2024.8.9-beta0.6
+* 2025.3.17-beta0.7

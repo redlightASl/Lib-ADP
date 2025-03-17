@@ -20,3 +20,12 @@ use LibPkg for checking components and management
 add some new components
 fix bugs
 release Lib-ADPv1.0 for test, enjoy it =)
+
+### beta0.6
+add some new components
+correct names of components
+fix bugs
+
+### beta0.7
+add some new components
+fix bugs
